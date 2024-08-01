@@ -1,2 +1,1 @@
-Flask==2.3.3
-Werkzeug==2.2.3
+# No external dependencies required for this simple web application
